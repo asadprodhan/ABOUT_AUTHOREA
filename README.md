@@ -1,5 +1,8 @@
 # 📚 Authorea Collaboration Guide
 
+
+## **OVERVIEW**
+
 [Authorea](https://www.authorea.com/) is an **online collaborative writing platform** designed for researchers, academics, and students.  
 It combines the ease of **Google Docs-style real-time editing** with the **version control of GitHub** and the **LaTeX/Markdown support of Overleaf**.  
 
@@ -16,18 +19,13 @@ In short:
 - **Overleaf is strong for LaTeX users**, but less accessible to those preferring WYSIWYG.  
 - **Authorea combines the best of all three**, making it easier for teams with mixed technical backgrounds to collaborate on research writing.  
 
-This guide is designed to help co-authors quickly understand how to **write, edit, cite, collaborate, and publish** using Authorea.  
-
-
-
-# 📚 Authorea Collaboration Guide
 
 This guide explains how to use [Authorea](https://www.authorea.com/) for collaborative academic writing.  
 It is designed to help co-authors quickly understand how to **write, edit, cite, and publish** using Authorea.
 
 ---
 
-## 🚀 Step-by-Step Workflow
+## 🚀 **HOW TO USE AUTHOREA**
 
 1. **Create Account** → Sign up at [authorea.com](https://www.authorea.com/).  
 2. **Start a New Document** → Choose blank, template, or import (LaTeX/Markdown/DOCX).  
@@ -40,29 +38,28 @@ It is designed to help co-authors quickly understand how to **write, edit, cite,
 
 ---
 
-## 📊 Workflow Diagram
+## 📌 **FAQ**
 
-![Authorea Workflow](authorea_workflow.png)
 
----
+### **Q1. Does the work get publicly available in real time while co-authors are working on it?**  
 
-## 📌 FAQ
-
-**Q1. Does the work get publicly available in real time while co-authors are working on it?**  
 - ❌ No. Documents remain **private** until you publish.  
 - ✅ Only invited collaborators can view/edit drafts.  
 
-**Q2. Can multiple co-authors work simultaneously like GitHub?**  
+### **Q2. Can multiple co-authors work simultaneously like GitHub?**  
+
 - ✅ Yes. Co-authors can edit in **real-time** (like Google Docs).  
 - ✅ GitHub-style version control keeps track of all changes.  
 
-**Q3. Can I write, edit, and cite online?**  
+### **Q3. Can I write, edit, and cite online?**  
+
 - ✅ Yes. You can:  
   - Write in WYSIWYG, Markdown, or LaTeX.  
   - Edit collaboratively in real time.  
   - Insert citations directly from DOIs, PubMed, or arXiv.
  
-**Q4. Can I build a library of cited references to use later in another manuscript?**  
+## **Q4. Can I build a library of cited references to use later in another manuscript?**  
+
 - ✅ Yes. Authorea automatically saves all your citations into a **personal reference library**.  
 - 🔁 You can reuse these references in new documents without searching again.  
 - 📥 You can also **import** BibTeX/EndNote/Zotero/Mendeley libraries, and **export** your Authorea references (e.g., as BibTeX).  
