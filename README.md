@@ -1,7 +1,21 @@
-# 📚 Authorea Collaboration Guide
+<h1 align="center">An Introduction to Authorea</h1>
+
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup> </h3>
+
+<div align="center"><b> School of Biological Sciences, The University of Western Australia </b></div>
+<div align="center"><b> 35 Stirling Highway, Perth, WA 6009, Australia. <sup>*</sup>Correspondence: prodhan82@gmail.com </b></div>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/asadprodhan/How-to-automatically-download-reads-from-the-NCBI-SRA/tree/main#GPL-3.0-1-ov-file"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0"></a>
+  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID"></a>
+</p>
+
+---
 
 
-## **OVERVIEW**
+## **Introduction**
 
 [Authorea](https://www.authorea.com/) is an **online collaborative writing platform** designed for researchers, academics, and students.  
 It combines the ease of **Google Docs-style real-time editing** with the **version control of GitHub** and the **LaTeX/Markdown support of Overleaf**.  
@@ -25,7 +39,7 @@ It is designed to help co-authors quickly understand how to **write, edit, cite,
 
 ---
 
-## 🚀 **HOW TO USE AUTHOREA**
+## 🚀 **How to use Authorea**
 
 1. **Create Account** → Sign up at [authorea.com](https://www.authorea.com/).  
 2. **Start a New Document** → Choose blank, template, or import (LaTeX/Markdown/DOCX).  
