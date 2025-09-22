@@ -1,5 +1,27 @@
 # 📚 Authorea Collaboration Guide
 
+[Authorea](https://www.authorea.com/) is an **online collaborative writing platform** designed for researchers, academics, and students.  
+It combines the ease of **Google Docs-style real-time editing** with the **version control of GitHub** and the **LaTeX/Markdown support of Overleaf**.  
+
+Unlike general-purpose tools, Authorea is built specifically for scholarly writing. It provides:  
+- **Integrated citation management** (search DOI, PubMed, arXiv directly in the editor).  
+- **Equation and figure support** (via LaTeX and WYSIWYG).  
+- **Reusable reference libraries** across projects.  
+- **Data and code integration** (datasets, Jupyter notebooks).  
+- **Direct publishing options** (as preprints or to partner journals).  
+
+In short:  
+- **Google Docs is great for free-form collaboration**, but it lacks citation tools and version history tuned for manuscripts.  
+- **GitHub is excellent for version control**, but not all co-authors are comfortable with Git/Markdown.  
+- **Overleaf is strong for LaTeX users**, but less accessible to those preferring WYSIWYG.  
+- **Authorea combines the best of all three**, making it easier for teams with mixed technical backgrounds to collaborate on research writing.  
+
+This guide is designed to help co-authors quickly understand how to **write, edit, cite, collaborate, and publish** using Authorea.  
+
+
+
+# 📚 Authorea Collaboration Guide
+
 This guide explains how to use [Authorea](https://www.authorea.com/) for collaborative academic writing.  
 It is designed to help co-authors quickly understand how to **write, edit, cite, and publish** using Authorea.
 
@@ -46,5 +68,3 @@ It is designed to help co-authors quickly understand how to **write, edit, cite,
 - 📥 You can also **import** BibTeX/EndNote/Zotero/Mendeley libraries, and **export** your Authorea references (e.g., as BibTeX).  
 
 ---
-
-👉 Share this README with your team so everyone can start using Authorea efficiently!
